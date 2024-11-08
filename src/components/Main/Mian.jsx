@@ -39,7 +39,7 @@ const {onSent, recentPrompt,showResult
 </div>
 
 <div className="resultdata">
-  <img src={assets.gemini_icon} alt="" />
+  
    {loading 
    ?<div className="loader">
     <hr />
